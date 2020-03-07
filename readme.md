@@ -1,6 +1,6 @@
 # Fashe - Fashion Online Store
 
-An online shopping website built within the curriculum
+An online store built within the curriculum
 
 ## Built With
 
